@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdd4239b-ff2e-4ca0-90c5-063050fce389" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ex07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex08.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -70,11 +70,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex07.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ex07.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex07.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="121">
               <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex08.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex08.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -102,6 +111,7 @@
         <option value="$PROJECT_DIR$/ex05.html" />
         <option value="$PROJECT_DIR$/ex06.html" />
         <option value="$PROJECT_DIR$/ex07.html" />
+        <option value="$PROJECT_DIR$/ex08.html" />
       </list>
     </option>
   </component>
@@ -189,12 +199,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526046029950</updated>
-      <workItem from="1526046031243" duration="5150000" />
+      <workItem from="1526046031243" duration="5678000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5150000" />
+    <option name="totallyTimeSpent" value="5678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
@@ -282,6 +292,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
           <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex08.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
     </entry>
