@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="node_modules/angular/angular.js"></script>
+    <script>
+        angular.module('app', [])
+        angular.module('app').service('utils', function () {
+            this.upper = function (input) {
+                return input.toUpperCase()
+            }
+
+        })
+
+        angular.module('app').controller('MeuController', [
+            'utils', function (utils) {
+                const self = this
+                self.value = utils.upper("texto")
+            }
+        ])
+    </script>
+</head>
+<body ng-controller="MeuController as ctrl">
+{{ ctrl.value }}
+</body>
+</html>
